@@ -1,5 +1,9 @@
 # Deep Learning Class Project
 
+## Data 
+
+Data was retrieved from http://www.freddiemac.com/research/datasets/sf_loanlevel_dataset.page. I am using the sample files from 2010 onwards.
+
 ## File Descriptions
 
 ### 1_Create_Training_Dataset
